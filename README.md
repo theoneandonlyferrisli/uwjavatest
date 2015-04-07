@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Greetings!
 This exercise is designed to test your ability to compile Java programs, modifying Java source code
 as necessary to make that happen.
@@ -91,3 +92,7 @@ Fire away, to either me or the TA.
 
 [1]: http://www.gradle.org
 [2]: http://brew.sh/
+=======
+# uwjavatest
+HW 1 for Yuefeng Li (Ferris)
+>>>>>>> 78f21daa77c49bf466feaba2aa587f01d6a78978
